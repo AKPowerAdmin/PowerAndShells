@@ -14,9 +14,12 @@
 .PARAMETER Detailed
     Switch to export detailed user information.
 
+.LINK
+    https://github.com/AKPowerAdmin/PowerAndShells
+
 .NOTES
-    Author: Albert Kosinski
-    Version: 1.0
+    Author: AKPowerAdmin
+    Version: 1.1
     Date: 2024-12-17
 #>
 
